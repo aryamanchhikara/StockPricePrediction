@@ -6,3 +6,4 @@ pandas
 tensorflow 
 scikit-learn 
 pandas-datareader 
+importlib-resources
